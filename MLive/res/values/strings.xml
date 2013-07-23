@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MLive</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <color name="white">#000000</color>
+    <color name="white1">#FFFFFF</color>
+
+    <string name="title_activity_web">WebActivity</string>
+    <string name="title_activity_web_activity2">WebActivity2</string>
+    <string name="title_activity_web_activity3">WebActivity3</string>
+    <string name="title_activity_web_activity4">WebActivity4</string>
+    <string name="title_activity_web_activity5">WebActivity5</string>
+
+</resources>
